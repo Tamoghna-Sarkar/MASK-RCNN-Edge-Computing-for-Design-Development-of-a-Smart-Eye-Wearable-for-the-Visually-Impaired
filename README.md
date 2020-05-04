@@ -1,1 +1,1 @@
-# Design and Development of a smart eye wearable for the Visually impaired
+# Design and Development of a Smart Eye Wearable for the Visually Impaired through MASK R-CNN and Edge Computing
